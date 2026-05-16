@@ -1,4 +1,4 @@
-# Joanium
+# Joanium Classic
 
 <p align="center">
     <picture>

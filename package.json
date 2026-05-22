@@ -79,7 +79,7 @@
   "devDependencies": {
     "clean-css": "5.3.3",
     "electron": "42.2.0",
-    "electron-builder": "^26.11.0",
+    "electron-builder": "^26.11.1",
     "eslint": "10.4.0",
     "eslint-plugin-unused-imports": "4.4.1",
     "html-minifier-terser": "7.2.0",

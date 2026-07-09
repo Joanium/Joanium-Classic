@@ -167,17 +167,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide, [CODE_OF_CONDUCT.md](
 
 ---
 
-## ⭐ Star History
-
-<a href="https://star-history.com/#joanium/joanium&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=joanium/joanium-classic&type=Date&theme=dark">
-    <img src="https://api.star-history.com/svg?repos=joanium/joanium-Classic&type=Date" alt="Star History Chart">
-  </picture>
-</a>
-
----
-
 ## License
 
 Joanium Classic is source-available under the [PolyForm Noncommercial License 1.0.0](LICENSE.md) —

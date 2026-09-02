@@ -84,7 +84,7 @@
     "eslint-plugin-unused-imports": "4.4.1",
     "html-minifier-terser": "7.2.0",
     "husky": "9.1.7",
-    "jest": "30.4.2",
+    "jest": "30.5.0",
     "lint-staged": "17.2.0",
     "prettier": "3.9.6",
     "terser": "5.49.1"

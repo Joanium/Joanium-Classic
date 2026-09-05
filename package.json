@@ -85,7 +85,7 @@
     "html-minifier-terser": "7.2.0",
     "husky": "9.1.7",
     "jest": "30.5.0",
-    "lint-staged": "17.2.0",
+    "lint-staged": "17.4.1",
     "prettier": "3.9.6",
     "terser": "5.49.1"
   }

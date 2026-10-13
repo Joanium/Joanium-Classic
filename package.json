@@ -86,7 +86,7 @@
     "husky": "9.1.7",
     "jest": "30.5.1",
     "lint-staged": "17.2.0",
-    "prettier": "3.9.6",
+    "prettier": "3.9.9",
     "terser": "5.49.1"
   }
 }

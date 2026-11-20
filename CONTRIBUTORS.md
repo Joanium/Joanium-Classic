@@ -4,15 +4,15 @@ Thanks to everyone who has contributed to **Joanium**!
 This file is automatically regenerated every week. 🤖
 
 > **Total contributors:** 4  
-> **Last updated:** Mon, 16 Nov 2026 15:11:06 GMT
+> **Last updated:** Fri, 20 Nov 2026 14:28:54 GMT
 
 ---
 
 | | Contributor | Commits |
 |---|---|---|
-| <img src="https://avatars.githubusercontent.com/u/128782382?v=4&s=32" width="32" height="32" style="border-radius:50%"/> | [@withinJoel](https://github.com/withinJoel) | 961 |
-| <img src="https://avatars.githubusercontent.com/in/15368?v=4&s=32" width="32" height="32" style="border-radius:50%"/> | [@github-actions[bot]](https://github.com/apps/github-actions) | 434 |
-| <img src="https://avatars.githubusercontent.com/in/29110?v=4&s=32" width="32" height="32" style="border-radius:50%"/> | [@dependabot[bot]](https://github.com/apps/dependabot) | 125 |
+| <img src="https://avatars.githubusercontent.com/u/128782382?v=4&s=32" width="32" height="32" style="border-radius:50%"/> | [@withinJoel](https://github.com/withinJoel) | 962 |
+| <img src="https://avatars.githubusercontent.com/in/15368?v=4&s=32" width="32" height="32" style="border-radius:50%"/> | [@github-actions[bot]](https://github.com/apps/github-actions) | 435 |
+| <img src="https://avatars.githubusercontent.com/in/29110?v=4&s=32" width="32" height="32" style="border-radius:50%"/> | [@dependabot[bot]](https://github.com/apps/dependabot) | 126 |
 | <img src="https://avatars.githubusercontent.com/u/274259721?v=4&s=32" width="32" height="32" style="border-radius:50%"/> | [@joaniumhere](https://github.com/joaniumhere) | 1 |
 
 ---
